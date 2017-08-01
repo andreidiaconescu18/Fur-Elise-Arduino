@@ -384,7 +384,7 @@ void setup() {
     Beep(493,200); //B4
     //45
     Beep(440,1000); //A4
-    analogWrite(led, 0);
+    analogWrite(led1, 0);
     analogWrite(led2, 0);
     analogWrite(led3, 0);
     analogWrite(led4, 0);
